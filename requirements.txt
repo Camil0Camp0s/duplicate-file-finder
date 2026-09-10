@@ -1,0 +1,2 @@
+Pillow==12.3.0
+Send2Trash==2.1.0
